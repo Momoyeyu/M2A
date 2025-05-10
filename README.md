@@ -1,8 +1,7 @@
 # Mirage Fools the Ear, Mute Hides the Truth: Precise Targeted Adversarial Attacks on Polyphonic Sound Event Detection Systems
 
-This repository provides the implementation of $\mathrm{M^2A}$:, a framework for **targeted adversarial attacks** on **polyphonic Sound Event Detection (SED) systems**. The code is made available **exclusively for reproducibility checks** as part of the **UAI 2025 review process**.
+This repository provides the implementation of $\mathrm{M^2A}$:, a framework for **targeted adversarial attacks** on **polyphonic Sound Event Detection (SED) systems**. The code is made available **exclusively for reproducibility checks.
 
-🔹 **This repository is anonymized to comply with UAI's double-blind review policy.**
 🔹 **Setup details for ATST-SED and CRNN can be found in their respective README files.**
 
 ---
@@ -109,7 +108,6 @@ python sed-crnn/arbitrary_attack.py
 
 ## 📌 Notes
 
-- This repository is **only for reproducibility checks in UAI 2025**.
 - Details of ATST-SED and CRNN setups can be found in their respective directories.
 - Identifying information has been removed to comply with **double-blind review policies**.
 - The repository will be **updated post-review** if necessary.
